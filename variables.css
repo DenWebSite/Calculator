@@ -1,0 +1,15 @@
+:root {
+    --color-accent: #00a616;
+    --grey: #a6a6a6;
+    --white: #fdfdfd;
+    --bg: #000;
+}
+
+.customClass {
+    background: rgba(0, 0, 0, 0.85); 
+    color: var(--white);
+    max-width: 300px;
+    width: 100%;
+    font-family: Arial;
+    border-radius: 20px;
+}
