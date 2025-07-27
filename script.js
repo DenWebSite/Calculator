@@ -1,3 +1,4 @@
+
 const plusMinus = document.querySelector('.plus-minus');
 const percent = document.querySelector('.percent');
 
